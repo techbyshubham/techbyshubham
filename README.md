@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techbyshubham
+- 👋 Hi, I’m @Shubham Kumar
 - 👀 I’m interested to develop the UI
 <!---
 techbyshubham/techbyshubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
